@@ -1,0 +1,9 @@
+# The parent company should (hopefully) be using encrypted drives.  These will need to be decrypted before migration begins.
+
+# Open the command line as administrator and type the following command:
+
+manage-bde -unlock
+
+# Depending on how much data is encrypted, it will take some time to decrypt. To check the status of decryption use the following command:
+
+manage-bde -status
