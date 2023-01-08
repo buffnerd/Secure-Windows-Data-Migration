@@ -1,0 +1,7 @@
+# Before migrating a user and their device, you should check to see if they are connected to any network drives from previous domain that are not yet migrated.
+
+# Ideally, this should be done beforehand, but that's not always how it plays out depending on priorities and timelines.
+
+# Additionally, if possible, it is a good idea to back up any drives that have critical information on them before the migration, especially when you are still reliant on the resources of the parent company.
+
+# You can do this in the command line or via file explorer.  Create a "backups" folder on the desktop and import the contents of critical data to that folder.
