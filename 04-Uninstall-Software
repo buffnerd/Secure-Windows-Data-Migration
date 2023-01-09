@@ -3,3 +3,5 @@
 # Most software can be uninstalled using appwiz.cpl but you can write scripts to make more temperamental uninstallations a bit easier.
 
 # The next few files in this guide are examples of scripts you can run to uninstall more temperamental software.
+
+# Note: Make sure you uninstall LAPS and any software licensed to parent company at this time.  Failing to do this could cause them to have persisent access to your resources post migration
