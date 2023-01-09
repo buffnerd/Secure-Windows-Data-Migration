@@ -1,0 +1,6 @@
+# After software is uninstalled, onedrive is backed up and restored, be sure to unlink OneDrive from the computer.
+
+# Right click OneDrive in the system tray, click the Gear icon, and click Settings.
+# From the Accounts tab click Unlink this PC.  
+
+# Not sure if there is a way to do this with a batch file or through command line yet.
