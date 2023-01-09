@@ -7,3 +7,5 @@
 # You can do this in the command line or via file explorer.  Create a "backups" folder on the desktop and import the contents of critical data to that folder.
 
 # Also back up OneDrive files and any other files not saved to the local computer that users will need to access post migration
+
+# Be sure to also run the batch script to restore one drive folders after backing up one drive to prevent a messy migration.
