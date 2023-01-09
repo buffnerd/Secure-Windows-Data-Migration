@@ -1,0 +1,5 @@
+# Before migration, make sure to INSTALL your own endpoint/remote administration software on all the devices or be prepared to use local accounts to perform migration commands, which is less secure.
+
+# Most software can be uninstalled using appwiz.cpl but you can write scripts to make more temperamental uninstallations a bit easier.
+
+# The next few files in this guide are examples of scripts you can run to uninstall more temperamental software.
