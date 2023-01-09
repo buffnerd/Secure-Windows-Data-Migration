@@ -1,4 +1,7 @@
 # After following all the previous steps, it is time to migrate the profile.  But before migrating
 # it is important to uninstall SCCM (System Center Configuration Manager) and unenroll from Intune or whatever MDM application the parent company uses.
 
-# Run the batch scripts on steps 07a and 07b and then Migrate the profile using the the Profile Wizard (profwiz.exe)
+# Run the batch script and executables on steps 07a, 07b, and 07c and then Migrate the profile to the appropriate domain with the associated user.
+
+# IMPORTANT:  Before this step, AD for the new domain should have already been set up with all users who are being migrated from the previous domain.
+#             If this has not been done, you will be unable to continue, and you shouldn't have even started in the first place.
