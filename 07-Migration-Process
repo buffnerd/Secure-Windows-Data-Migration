@@ -1,0 +1,4 @@
+# After following all the previous steps, it is time to migrate the profile.  But before migrating
+# it is important to uninstall SCCM (System Center Configuration Manager) and unenroll from Intune or whatever MDM application the parent company uses.
+
+# Run the batch scripts on steps 07a and 07b and then Migrate the profile using the the Profile Wizard (profwiz.exe)
